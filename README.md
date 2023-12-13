@@ -1,6 +1,7 @@
 # Sorting Algorithms Repository
 Welcome to the Sorting Algorithms Repository! This repository is a collection of various sorting algorithms implemented in C. The source code of each algorithm is organized into its respective folder. Some information on each algorithm below.
 
+
 ## Insertion Sort
 ## +
 1. Simple implementation (easy to understand)
@@ -50,6 +51,7 @@ Welcome to the Sorting Algorithms Repository! This repository is a collection of
 1. Unstable
 2. Dependant on the choice of the pivot
 3. Less suitable for linked lists
+
 
 ## Overview of some sorting algorithms and their complexities
 ![sorting algorithm complexities](Array%20Sorting%20Algorithms.png)
