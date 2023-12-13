@@ -52,4 +52,4 @@ Welcome to the Sorting Algorithms Repository! This repository is a collection of
 3. Less suitable for linked lists
 
 ## Overview of some sorting algorithms and their complexities
-![sorting algorithm complexities](./Array_Sorting_Algorithms.png)
+(![sorting algorithm complexities](Array%20Sorting%20Algorithms.png)
