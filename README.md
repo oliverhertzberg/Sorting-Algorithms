@@ -7,7 +7,7 @@ Welcome to the Sorting Algorithms Repository! This repository is a collection of
 2. In-place sorting (no additional memory required for temporary storage)
 3. Efficient for small data sets or nearly sorted data
 4. Stable sorting algorithm, meaning it maintains the relative order of equal elements in the input array.
-##-
+5. ##-
 1. Inefficient against more extensive data sets.
 2. Worst-case time complexity: O(n^2).
 3. Slower than other more advanced algorithms.
@@ -26,7 +26,7 @@ Welcome to the Sorting Algorithms Repository! This repository is a collection of
 1. Simple and easy to understand and implement.
 2. Efficient for small data sets or nearly sorted data.
 3. In-place sorting.
-##-
+#-
 1. Inefficient for large data sets.
 2. Worst-cast time complexity: O(n^2).
 3. Non-stable, swaps non-adjacent elements.
